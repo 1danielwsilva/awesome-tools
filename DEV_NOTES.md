@@ -16,3 +16,8 @@ Personal development log — notes, findings, and ongoing work.
 - Documented config options
 - Updated license year
 - Addressed feedback from self code review
+
+## 2026-05-18
+- Documented config options
+- Reorganised test fixtures
+- Verified compatibility with latest runtime version
