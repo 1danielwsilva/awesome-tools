@@ -11,3 +11,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic usage examples to README
 - Added basic retry logic for network requests
 - Added type hints to helper functions
+
+## 2026-05-18
+- Documented config options
+- Updated license year
+- Addressed feedback from self code review
